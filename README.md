@@ -9,7 +9,7 @@ It's an evolution of [RomanToArabic](https://github.com/janracz/RomanToArabic).
 * [Status](#status)
 
 ## General info
-This project was made for my studies as an exercise for my studies. It's an extend of previous version. You first have to lounch a server from my project [RomanToArabicServer](https://github.com/janracz/RomanToArabicServer). When you heve done that run this project. From console you put roman number to convert. All instructions are shown on the console. This program connects with the server, waits for the number from user, send it to server for conversion, wait for anwser and show converted value. All is made by TCP.
+This project was made for my studies as an exercise for my studies. It's an extend of previous version. You first have to launch a server from my project [RomanToArabicServer](https://github.com/janracz/RomanToArabicServer). When you heve done that run this project. From console you put roman number to convert. All instructions are shown on the console. This program connects with the server, waits for the number from user, send it to server for conversion, wait for anwser and show converted value. All is made by TCP.
 
 
 ## Technologies
